@@ -1,0 +1,26 @@
+*{
+  
+    background-color:rgb(153, 135, 221);
+  }
+
+.main-container {
+    margin-left: 0%;
+    text-align:center;
+    width: auto;
+    padding: 227px;
+    background: rgb(216, 115, 115);
+    background-position: 0em;  
+}
+
+.register-container {
+    margin-left: none;
+    text-align:center;
+    width: auto;
+    padding: 110px;
+    background: rgb(216, 115, 115);
+    background-position: 0em;  
+}
+
+.center-text{
+    margin-top:10%;
+}

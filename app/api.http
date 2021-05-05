@@ -1,0 +1,11 @@
+POST http://localhost:4000/user HTTP/1.1
+content-type: application/json
+
+{
+   "name":"",
+   "email":"",
+   "password":"",
+   "role":""
+}
+
+POST http://localhost:4000/user HTTP/1.1
